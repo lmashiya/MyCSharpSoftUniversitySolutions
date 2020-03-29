@@ -30,7 +30,7 @@ namespace FarEastRandhospital
                     if (inputArgs.Length == 1 && Hospital.ContainsDepartment(inputArgs[0]))
                     {
                         string departmentName = inputArgs[0];
-                        Department department = Hospital.DepartmentsList.FirstOrDefault(x => x.Name == departmentName);
+                        Department department = Hospital.GetDepartmentInList(inputArgs[0]);
                         Console.WriteLine(department);
                     }
 
