@@ -1,0 +1,11 @@
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\bin\Debug\netcoreapp2.2\FarEastRandhospital.deps.json
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\bin\Debug\netcoreapp2.2\FarEastRandhospital.runtimeconfig.json
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\bin\Debug\netcoreapp2.2\FarEastRandhospital.runtimeconfig.dev.json
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\bin\Debug\netcoreapp2.2\FarEastRandhospital.dll
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\bin\Debug\netcoreapp2.2\FarEastRandhospital.pdb
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\obj\Debug\netcoreapp2.2\FarEastRandhospital.csprojAssemblyReference.cache
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\obj\Debug\netcoreapp2.2\FarEastRandhospital.csproj.CoreCompileInputs.cache
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\obj\Debug\netcoreapp2.2\FarEastRandhospital.AssemblyInfoInputs.cache
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\obj\Debug\netcoreapp2.2\FarEastRandhospital.AssemblyInfo.cs
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\obj\Debug\netcoreapp2.2\FarEastRandhospital.dll
+C:\Users\lmashiyane\Desktop\Software-University-master\C# OOP\Homeworks\01.Abstraction_Exercise\FarEastRandhospital\obj\Debug\netcoreapp2.2\FarEastRandhospital.pdb
